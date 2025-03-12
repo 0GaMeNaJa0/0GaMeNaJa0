@@ -10,8 +10,8 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 - 🌲 Nature is not a place to visit. It is HOME.
 
 ## Statistics 🏆
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&hide=contribs,prs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact&theme=dark)
 
 
 
