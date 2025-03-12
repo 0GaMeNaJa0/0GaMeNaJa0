@@ -86,5 +86,5 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&theme=dark&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0GaMeNaJa0&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0GaMeNaJa0&layout=compact&langs_count=6&hide_progress=true&theme=dark" />
 </a>
