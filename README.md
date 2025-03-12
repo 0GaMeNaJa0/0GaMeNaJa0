@@ -75,9 +75,6 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
 
-### 📬 Let's Connect
-<p align="left"> <a href="https://www.facebook.com/Pornchai.Phoempoonkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/> </a> <a href="https://www.instagram.com/0_pc_ppk_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> <a href="mailto:herogane13748@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40"/> </a> </p>
-
 ### 🏆 Statistics 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&theme=dark" />
