@@ -78,6 +78,14 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 ### 📬 Let's Connect
 <p align="left"> <a href="https://www.facebook.com/Pornchai.Phoempoonkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/> </a> <a href="https://www.instagram.com/0_pc_ppk_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> <a href="mailto:herogane13748@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40"/> </a> </p>
 
-### 🏆 Statistics 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact&theme=tokyonight)
+### 🏆 Statistics
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
