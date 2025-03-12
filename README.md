@@ -9,12 +9,11 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-- Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-- Navigating through the world of React Router for seamless page transitions.
-- Styling with Tailwind CSS to create modern and responsive user interfaces.
-- Building server-side applications with Django, a powerful Python web framework.
-- Diving into PostgreSQL for efficient and scalable database management.
+- Learning Full Stack Web Development
+- Delving Devops for making website automation deploying
+- Get to know and become more familiar with AI.
+- Practice How to build an AI Chatbot
+- Want to know more about the Network DNS and Transaction
 
 ### 🖥️ Programming Languages:
 <p align="left">
@@ -61,11 +60,11 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
   <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
 
-### 🛡️ Testing & CI/CD:
+### 🛡️ Testing:
 <p align="left">
   <a href="https://www.cypress.io" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="cypress" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
 
 ### 📬 Let's Connect
-<p align="left"> <a href="https://www.facebook.com/Pornchai.Phoempoonkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/> </a> <a href="https://www.instagram.com/0_pc_ppk_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> <a href="mailto:herogane13748@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.facebook.com/Pornchai.Phoempoonkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/> </a> <a href="https://www.instagram.com/0_pc_ppk_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> <a href="mailto:herogane13748@gmail.com"> <img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" alt="Gmail" width="40" height="40"/> </a> </p>
