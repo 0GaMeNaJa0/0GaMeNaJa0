@@ -4,8 +4,10 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 ## 🚀 About Me
 
 - 🔭 I'm currently creating techhub platform.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🌐 Always learning new things.
+- 🤖 Sometimes chatbot is closed friends.
+- 🎯 Be a person who does things consistently and with discipline.
+- 🌲 Nature is not a place to visit. It is HOME.
 
 ## 🌱 Currently Exploring
 
@@ -14,6 +16,13 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 - Get to know and become more familiar with AI.
 - Practice How to build an AI Chatbot
 - Want to know more about the Network DNS and Transaction
+
+### 🤖 Familiar AI & Robots:
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ### 🖥️ Programming Languages:
 <p align="left">
