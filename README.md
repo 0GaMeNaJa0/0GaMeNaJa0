@@ -80,4 +80,4 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 
 ### 🏆 Statistics 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact&theme=tokyonight)
