@@ -1,4 +1,4 @@
-# Konnichiwa 😏, I'm Pornchai Phoempoonkit 
+# Konnichiwa 😸, I'm Pornchai Phoempoonkit 
 A passionate Full-Stack developer from Codingonblog, driven by a discipline and consistency. My journey involves delving into the world of technology and financial, exploring new ideas, and sharing my insights with my mom.
 
 ## 🎅 About Me
