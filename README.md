@@ -9,10 +9,12 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 - 🎯 Be a person who does things consistently and with discipline.
 - 🌲 Nature is not a place to visit. It is HOME.
 
-## Statistics 🏆
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&hide_progress=true&theme=tokyonight)
-
+### 🤖 Familiar AI & Robots:
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ## 🌱 Currently Exploring
 
@@ -21,13 +23,6 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 - Get to know and become more familiar with AI.
 - Practice How to build an AI Chatbot
 - Want to know more about the Network DNS and Transaction
-
-### 🤖 Familiar AI & Robots:
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ### 🖥️ Programming Languages:
 <p align="left">
@@ -81,4 +76,8 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 </p>
 
 ### 📬 Let's Connect
-<p align="left"> <a href="https://www.facebook.com/Pornchai.Phoempoonkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/> </a> <a href="https://www.instagram.com/0_pc_ppk_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> <a href="mailto:herogane13748@gmail.com"> <img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" alt="Gmail" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.facebook.com/Pornchai.Phoempoonkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/> </a> <a href="https://www.instagram.com/0_pc_ppk_0" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/> </a> <a href="mailto:herogane13748@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40"/> </a> </p>
+
+## Statistics 🏆
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&hide_progress=true&theme=tokyonight)
