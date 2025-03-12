@@ -24,12 +24,6 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 - 🤺 Practice How to build an AI Chatbot
 - 🌐 Want to know more about the Network DNS and Transaction
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
 ### 🖥️ Programming Languages:
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -83,8 +77,8 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 
 ### 🏆 Statistics 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&theme=dark&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&theme=dark&rank_icon=github&card_width=50%" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0GaMeNaJa0&layout=compact&langs_count=6&hide_progress=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0GaMeNaJa0&layout=compact&langs_count=6&hide_progress=true&theme=dark&card_width=50%" />
 </a>
