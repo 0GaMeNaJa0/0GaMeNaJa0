@@ -3,7 +3,7 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 
 ## 🎅 About Me
 
-- 🔭 I'm currently creating techhub platform.
+- 🔭 I'm currently a junior full stack developer.
 - 🌐 Always learning new things.
 - 🤖 Sometimes chatbot is closed friends.
 - 🎯 Be a person who does things consistently and with discipline.
@@ -21,8 +21,9 @@ A passionate Full-Stack developer from Codingonblog, driven by a discipline and 
 - ⭐ Learning Full Stack Web Development
 - 🔍 Delving Devops for making website automation deploying
 - 📖 Get to know and become more familiar with AI.
-- 🤺 Practice How to build an AI Chatbot
-- 🌐 Want to know more about the Network DNS and Transaction
+- 🤺 Need to know on How build an AI Chatbot
+- 🌐 Curious to know more about the Network DNS and Transaction
+- 🔒 Practice a Cybersecurity 
 
 ### 🖥️ Programming Languages:
 <p align="left">
