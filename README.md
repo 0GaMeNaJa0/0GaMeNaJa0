@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pornchai%20%22Game%22%20Pheompoonkit&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Explorer%20%7C%20System%20Design&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pornchai%20%22Game%22%20Pheompoonkit&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Explorer%20%7C%20System%20Design&descAlignY=58&descSize=18&reversal=false" width="100%"/>
+
+<!-- If the banner above shows a broken icon, do a hard refresh (Ctrl/Cmd+Shift+R) on the README page once — GitHub's image proxy just needs to re-fetch it after the generator's first cold start. -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+systems%2C+not+just+screens;RAG+%26+LLM+application+engineering;Consistency+%3E+Motivation;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8bc4-b34c893e6d8b.gif" width="500"/>
 
 <br/>
 
@@ -75,12 +81,18 @@ Not "how do I call GPT" — **how do I build a reliable system around one.**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
 
 <img src="https://streak-stats.demolab.com?user=0GaMeNaJa0&theme=tokyonight&hide_border=true&background=0D1117" />
 
+<!-- These two cards run on shared free-tier servers that occasionally rate-limit and show a broken icon —
+     it's not a bug in this file, refreshing later usually fixes it. -->
+
 <img src="https://raw.githubusercontent.com/0GaMeNaJa0/0GaMeNaJa0/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+<!-- The snake above only renders once you add the GitHub Action workflow from snake.yml
+     (sent alongside this file) to this repo — it generates the "output" branch this image reads from. -->
 
 </div>
 
