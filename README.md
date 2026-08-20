@@ -1,436 +1,97 @@
-# 👋 Konnichiwa, I'm Pornchai "Game" Pheompoonkit 😸
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+RAG+Explorer+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%8C%B1;Consistency+%3E+Motivation" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pornchai%20%22Game%22%20Pheompoonkit&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Explorer%20%7C%20System%20Design&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/0GaMeNaJa0">
-    <img src="https://img.shields.io/github/followers/0GaMeNaJa0?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/0GaMeNaJa0">
-    <img src="https://img.shields.io/github/stars/0GaMeNaJa0?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=0GaMeNaJa0&style=for-the-badge&color=blue" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+systems%2C+not+just+screens;RAG+%26+LLM+application+engineering;Consistency+%3E+Motivation;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<br/>
 
-## 🌱 About Me
+<a href="https://github.com/0GaMeNaJa0">
+  <img src="https://img.shields.io/github/followers/0GaMeNaJa0?label=Followers&style=for-the-badge&logo=github&color=58A6FF&labelColor=161B22" />
+</a>
+<a href="https://github.com/0GaMeNaJa0">
+  <img src="https://img.shields.io/github/stars/0GaMeNaJa0?style=for-the-badge&logo=github&color=58A6FF&labelColor=161B22" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=0GaMeNaJa0&style=for-the-badge&color=58A6FF&labelColor=161B22" />
 
-Hi! I'm **Pornchai Pheompoonkit**, but most people call me **Game**.
+</div>
 
-I'm a **Full-Stack Developer** who enjoys turning ideas into real, maintainable software.
+<br/>
 
-My journey started with web development, but over time I became more interested in the bigger picture:
+## 🧭 About Me
 
-> **How does a system actually work?**
-
-Not just the UI.
-Not just the API.
-Not just the database.
-
-I want to understand the entire journey — from a user's click, through the network, backend services, databases, AI systems, infrastructure, and finally back to the user.
-
-That's why I'm continuously exploring:
-
-* 🧩 Full-Stack Development
-* 🏗️ System Design & Software Architecture
-* 🤖 AI, LLM & RAG Systems
-* 🚀 DevOps & Deployment Automation
-* 🌐 Networking, DNS & Transactions
-* 🔐 Cybersecurity
-* 📈 Technology, Business & Financial Independence
-
----
-
-## 🧑‍💻 Who I Am Beyond Code
-
-I don't want to become a developer who only knows how to write code.
-
-I want to become an engineer who understands **why the code exists in the first place.**
-
-### My principles
+I'm a full-stack developer based in Thailand, working my way from "how do I ship a feature" toward "how does the whole system actually work." I care about the full request lifecycle — `HTTP → DNS → TCP → API → Database → Cache → Queue → AI → Infrastructure` — and I'm currently most excited about building reliable applications on top of LLMs, not just calling an API and calling it done.
 
 ```text
-Consistency > Motivation
-Learning > Knowing
+Consistency   > Motivation
 Understanding > Memorizing
-Good Architecture > Clever Code
-Long-term Thinking > Short-term Hype
+Architecture  > Clever code
 ```
 
-I'm naturally curious, sometimes overly curious 😅, and I genuinely enjoy going down the rabbit hole of understanding how things work.
+Outside of code: gaming, singing, family time, and chasing a quiet life close to home in Chonburi. The long game isn't a bigger title — it's enough skill, savings, and freedom to stop rushing.
 
-Whether it's:
+<br/>
 
-`HTTP → DNS → TCP → API → Database → Cache → Queue → AI → Infrastructure`
+## 🛠️ Tech Stack
 
-I want to know what is happening underneath.
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Languages**
 
-## 🏡 Where I Come From
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
-I'm from **Phanat Nikhom, Chonburi, Thailand**.
+**Frontend**
 
-Even though my career has taken me away from home, the idea of **home, family, and a peaceful life** remains an important part of who I am.
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
-I believe success isn't only about having a bigger title or a bigger salary.
+</td>
+<td valign="top" width="50%">
 
-For me, success means being able to build a stable life for the people I love while still having the freedom to enjoy simple things.
+**Backend & Infra**
 
-> 🌲 **Nature is not a place to visit. It is HOME.**
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-That mindset influences the way I approach both life and engineering:
+**Data & AI**
 
-**Build something useful.
-Keep improving.
-Don't rush.
-Stay consistent.**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
----
+</td>
+</tr>
+</table>
 
-# 🚀 What I'm Working Toward
+<br/>
 
-My long-term goal is to become an engineer who can confidently move across the entire technology stack.
+## 🤖 Currently Deep in AI & RAG
 
-From:
+Not "how do I call GPT" — **how do I build a reliable system around one.**
 
-```text
-Frontend
-   ↓
-Backend
-   ↓
-API / Microservices
-   ↓
-Database / Cache
-   ↓
-AI / RAG
-   ↓
-Infrastructure
-   ↓
-Deployment / Monitoring
-```
-
-And eventually be able to design systems from **idea → architecture → implementation → deployment → maintenance**.
-
-I am especially interested in building software that combines:
-
-* 🧠 AI
-* 🌐 Web Applications
-* 📚 Knowledge Retrieval
-* ⚙️ Automation
-* ☁️ Infrastructure
-* 📊 Real-world Business Problems
-
----
-
-# 🤖 AI & LLM Journey
-
-AI has become one of the areas I'm most excited about.
-
-I'm currently exploring how to build practical AI applications rather than simply calling an LLM API.
-
-Things I'm interested in:
-
-* Retrieval-Augmented Generation (RAG)
-* Embeddings & Vector Databases
-* Document Processing
-* Chunking & Metadata Design
-* Re-ranking
-* Prompt Engineering
-* LLM Application Architecture
-* AI Microservices
-* Local LLM Inference
-* AI Agents & Automation
-
-My goal isn't just:
-
-> "How do I call GPT?"
-
-It's:
-
-> **"How do I build a reliable AI system around an LLM?"**
-
----
-
-# 🛠️ Technology Stack
-
-### 🧑‍💻 Languages
-
-<p align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  </a>
-</p>
-
-### 🚀 Frameworks & Libraries
-
-<p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/>
-  </a>
-  <a href="https://svelte.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40" alt="Svelte"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  </a>
-</p>
-
----
-
-# 🧠 AI / Developer Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white" />
-</p>
-
-Currently exploring:
-
-```text
-LLM Applications
-RAG
-Vector Search
-Embeddings
-Prompt Engineering
-AI Agents
-Local Models
-AI Automation
-```
-
----
-
-# ⚙️ DevOps & Infrastructure
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>
-  <a href="https://nginx.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  </a>
-</p>
-
----
-
-# 🗄️ Databases
-
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="MariaDB"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/>
-  </a>
-</p>
-
----
-
-# 🧪 Testing
-
-<p align="left">
-  <a href="https://www.cypress.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" width="40" height="40" alt="Cypress"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/>
-  </a>
-</p>
-
----
-
-# 🔭 Currently Exploring
-
-```text
-⭐ Full-Stack Engineering
-🤖 AI / LLM / RAG
-🏗️ System Design
-🚀 DevOps & CI/CD
-🌐 Networking / DNS / HTTP
-🔐 Cybersecurity
-📦 Microservices
-🧠 Software Architecture
-💰 Technology & Financial Literacy
-```
-
----
-
-# 💡 Things I Love Building
-
-I especially enjoy projects where software solves a real problem.
-
-Some areas that interest me:
-
-```text
-AI-powered applications
-Knowledge & document systems
-Developer tools
-Automation
-Business applications
-Web platforms
-AI Chatbots
-RAG systems
-Small tools that make everyday life easier
-```
-
-I believe the best projects aren't necessarily the most complicated ones.
-
-They're the ones that make people say:
-
-> **"Wow, this actually makes my life easier."**
-
----
-
-# 🎮 Outside of Coding
-
-When I'm not writing code, you'll probably find me:
-
-* 🎮 Playing games
-* 🎵 Singing
-* 🌱 Thinking about life and the future
-* 🏡 Missing home
-* 👨‍👩‍👦 Spending time with family
-* ❤️ Spending time with the people I care about
-* 📚 Learning something completely unrelated to work
-* 🌳 Looking for a little peace and quiet
-
-I enjoy games that can be played for a long time, especially systems that reward patience, strategy, and consistency.
-
-Apparently, that says something about my personality too. 😹
-
----
-
-# 🎯 My Long-Term Goal
-
-I don't want to spend my entire life chasing titles.
-
-I want to build enough **skills, savings, and freedom** to eventually choose how I spend my time.
-
-A peaceful life close to home.
-
-A stable life for my family.
-
-Work that I genuinely enjoy.
-
-And enough freedom to say:
-
-> **"I don't need to rush anymore."**
-
-Until then...
-
-I'll keep learning.
-I'll keep building.
-I'll keep improving.
-
-One commit at a time. 🚀
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=0GaMeNaJa0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0GaMeNaJa0&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0GaMeNaJa0/0GaMeNaJa0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/0GaMeNaJa0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"The goal isn't to become better than everyone else.</i><br/>
-  <i>The goal is to become better than yesterday."</i>
-</p>
-
-<p align="center">
-  🌱 <b>Keep Learning.</b> &nbsp; 🚀 <b>Keep Building.</b> &nbsp; ❤️ <b>Stay Consistent.</b>
-</p>
+`Embeddings` · `Vector Search` · `Chunking & Metadata` · `Re-ranking` · `Prompt Engineering` · `AI Agents` · `Local Inference` · `LLM App Architecture`
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0GaMeNaJa0&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GaMeNaJa0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img src="https://streak-stats.demolab.com?user=0GaMeNaJa0&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<img src="https://raw.githubusercontent.com/0GaMeNaJa0/0GaMeNaJa0/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>"The goal isn't to become better than everyone else.<br/>The goal is to become better than yesterday."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
